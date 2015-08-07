@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright Chapel Hill Transit 2015.">
+<predictions agencyTitle="Chapel Hill" routeTitle="D" routeTag="D" stopTitle="S Columbia @ Abernethy Hall" stopTag="scolaber">
+  <direction title="To Eastowne">
+  <prediction epochTime="1438985515597" seconds="653" minutes="10" isDeparture="false" affectedByLayover="true" dirTag="2eastowne" vehicle="1309" block="710" />
+  <prediction epochTime="1438986751417" seconds="1889" minutes="31" isDeparture="false" affectedByLayover="true" dirTag="2eastowne" vehicle="1316" block="72" />
+  <prediction epochTime="1438987915597" seconds="3053" minutes="50" isDeparture="false" affectedByLayover="true" dirTag="2eastowne" vehicle="1209" block="730" />
+  </direction>
+</predictions>
+</body>
